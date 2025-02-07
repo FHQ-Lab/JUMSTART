@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Kepala (Lingkaran tapi dengan Path) -->
+    <path
+
+        android:fillColor="#BDBDBD"
+        android:pathData="M35,30 A15,15 0 1,1 65,30 A15,15 0 1,1 35,30" />
+
+    <!-- Badan (Setengah Elips untuk bahu) -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M20,80 Q50,50 80,80 Z" />
+</vector>

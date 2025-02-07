@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "408414031437",
+    "firebase_url": "https://sdg17-umkm-partnership-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sdg17-umkm-partnership",
+    "storage_bucket": "sdg17-umkm-partnership.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408414031437:android:5784d49ca5973800379604",
+        "android_client_info": {
+          "package_name": "com.example.aplikasikotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrh83FuISd8AMzwqtDKmd4Spqj2o1653M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
