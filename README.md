@@ -18,7 +18,7 @@ Fitur Utama
 ✅ Autentikasi Firebase (Login/Register)
 ✅ Pembuatan dan pengelolaan profil pengguna (UMKM & Investor)
 ✅ Daftar dan pencarian mitra bisnis berdasarkan kategori (unfinished/beta)
-✅ Sistem chat real-time menggunakan Firebase Cloud Messaging (unfinished/beta)
+✅ Sistem chat menggunakan Firebase Firestore (unfinished/beta)
 ✅ Notifikasi sederhana untuk interaksi pengguna (unfinished/beta)
 ✅ UI/UX yang minimalis dan mudah digunakan
 
@@ -41,7 +41,7 @@ Key Features
 ✅ Firebase Authentication (Login/Register)
 ✅ User profile creation and management (UMKM & Investor)
 ✅ Business partner listing and search based on categories(unfinished/beta)
-✅ Real-time chat system using Firebase Cloud Messaging(unfinished/beta)
+✅ Chat system using Firebase Firestore(unfinished/beta)
 ✅ Basic notification system for user interactions(unfinished/beta)
 ✅ Minimalist and user-friendly UI/UX
 
